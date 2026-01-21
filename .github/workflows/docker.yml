@@ -48,7 +48,7 @@ jobs:
           push: true
           tags: |
             ${{ env.REGISTRY }}/${{ steps.image.outputs.name }}:latest
-            ${{ env.REGISTRY }}/${{ steps.image.outputs.name }}:1.0.0
+            ${{ env.REGISTRY }}/${{ steps.image.outputs.name }}:1.0.1
             ${{ env.REGISTRY }}/${{ steps.image.outputs.name }}:${{ github.ref_name }}
           labels: |
             org.opencontainers.image.source=${{ github.repository }}
