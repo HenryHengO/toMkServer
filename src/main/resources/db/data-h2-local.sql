@@ -1,4 +1,4 @@
-INSERT IGNORE INTO PUBLIC.SETTING (ID, CONFIG_NAME, CONFIG_VALUE, CREATE_TIME, REMARK) VALUES (1, 'Image_Proxy_Path', 'http://127.0.0.1:9998/images', null, '图片映射地址');
+INSERT IGNORE INTO PUBLIC.SETTING (ID, CONFIG_NAME, CONFIG_VALUE, CREATE_TIME, REMARK) VALUES (1, 'Image_Proxy_Path', 'http://127.0.0.1:7860/images', null, '图片映射地址');
 INSERT IGNORE INTO PUBLIC.SETTING (ID, CONFIG_NAME, CONFIG_VALUE, CREATE_TIME, REMARK) VALUES (2, 'MD_Save_Path', '/Users/wangpenglong/dockerMounts/tomarkdown/mds', null, 'MD文件保存路径');
 INSERT IGNORE INTO PUBLIC.SETTING (ID, CONFIG_NAME, CONFIG_VALUE, CREATE_TIME, REMARK) VALUES (3, 'Image_Save_Path', '/Users/wangpenglong/dockerMounts/tomarkdown/pics', null, '图片保存路径');
 INSERT IGNORE INTO PUBLIC.SETTING (ID, CONFIG_NAME, CONFIG_VALUE, CREATE_TIME, REMARK) VALUES (4, 'User_template_id', '111', null, '自定义文件头部和尾部2');
