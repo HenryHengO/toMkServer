@@ -1,0 +1,9 @@
+# Hugging Face Spaces deployment image
+# Base on published application image
+FROM ghcr.io/idea-flow/article-to-markdown:main
+
+# Hugging Face expects the service on port 7860
+EXPOSE 7860
+
+# Container already defines entrypoint/command in base image
+

@@ -23,7 +23,7 @@ spring:
       # 数据库初始脚本
       schema-locations: classpath:db/schema-h2.sql
       # 数据库中表的初始脚本
-      data-locations: classpath:db/data-h2.sql
+      data-locations: classpath:db/data-h2-local.sql
       #      mode: embedded  #如果用文件的模式 此处不会初始化sql
       mode: always  #- Spring Boot应用启动时始终执行数据库初始化
     # mode: embedded - 只初始化内存数据库，比如H2数据库
